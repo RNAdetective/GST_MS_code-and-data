@@ -30,3 +30,7 @@ Mean6proUA.multivariateResults.csv
 cohesive-proUA.univariateLR-10000Sample_25PerSample.csv
 cohesive-proUA.multivariateStats.csv
 cohesive-proUA.multivariateResults.csv
+
+### 3. Supplementary Materials (Supplementary Figures, Supplementary Tables and Supplementary Files) ### 
+
+GST-SupplMaterials.zip 
